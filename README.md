@@ -14,15 +14,17 @@
 ![4](https://user-images.githubusercontent.com/56379930/117836128-a05fa180-b2a2-11eb-81fc-c7ab3a7d5c1f.png)
 5. Membuat form input
 ![5](https://user-images.githubusercontent.com/56379930/117836164-a6ee1900-b2a2-11eb-95da-5a82a70ac3e3.png)
-Perulangan DOWHILE
+6. Operator
+![operator](https://user-images.githubusercontent.com/56379930/117839330-57f5b300-b2a5-11eb-8cf4-719eef9d2225.png)
+7. Perulangan DOWHILE
 ![dowhile](https://user-images.githubusercontent.com/56379930/117836177-a9e90980-b2a2-11eb-9cfe-a8b2684b9f51.png)
-perulangan FOR
+8. perulangan FOR
 ![for](https://user-images.githubusercontent.com/56379930/117836191-aeadbd80-b2a2-11eb-9d72-be2f476b8cad.png)
-Kondisi IF
+9. Kondisi IF
 ![hari](https://user-images.githubusercontent.com/56379930/117836223-b40b0800-b2a2-11eb-8bf5-3e2d0b1b1795.png)
-Kondisi SWITCH
+10. Kondisi SWITCH
 ![kondisi](https://user-images.githubusercontent.com/56379930/117836249-b8cfbc00-b2a2-11eb-9694-f985988f5710.png)
-Perulangan WHILE
+11. Perulangan WHILE
 ![while](https://user-images.githubusercontent.com/56379930/117836281-c08f6080-b2a2-11eb-8ba5-b36d5aed24ce.png)
 
 # Pertanyaan dan Tugas
